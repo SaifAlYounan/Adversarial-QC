@@ -29,13 +29,11 @@ Based on research from Du et al. (ICML 2024) and Khan et al. (ICML 2024 Best Pap
 
 ## Installation
 
-### OpenClaw (ClawHub)
-```bash
-clawhub install adversarial-qc
-```
+### OpenClaw 
 
-### Manual
-Copy the `adversarial-qc/` folder into your OpenClaw workspace `skills/` directory.
+Send the link to this GitHub repo to your agent and ask it how to install it.
+
+
 
 ## Usage
 
