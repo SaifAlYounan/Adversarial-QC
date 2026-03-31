@@ -85,3 +85,7 @@ Built from lessons learned running adversarial AI debates over several months. T
 ## License
 
 MIT
+
+## Author
+
+Alexios van der Slikke-Kirillov
