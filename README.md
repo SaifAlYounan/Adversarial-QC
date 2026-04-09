@@ -2,6 +2,8 @@
 
 An [OpenClaw](https://github.com/openclaw/openclaw) skill for structured adversarial quality control of AI-generated deliverables.
 
+> **⚠️ Proof of concept.** This is an open-source demo showing how far multi-agent verification can take AI quality control. It improves output quality but does not guarantee correctness. The production version is whatever you make of it — fork it, bring your own checklists, harden it, make it yours. This repo exists to show what's possible.
+
 ## What it does
 
 Two AI agents independently verify a deliverable against a checklist, without seeing each other's work. Their results are compared:
